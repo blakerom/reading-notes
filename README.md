@@ -4,7 +4,7 @@
 > This website contains notes from Coding Bootcamp 201 in order to organize and recollect information during the course.
 ```
 ### Table of Contents
-1. [01 Intro to HTML and JavaScript](https://www.blakerom.github.io/reading-notes/01-Intro-HTML-JavaScript/)
+1. [01 Intro to HTML and JavaScript](https://github.com/blakerom/reading-notes/01-Intro-HTML-JavaScript/)
 2.
 3.
 4.
