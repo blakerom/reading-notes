@@ -1,6 +1,8 @@
 # reading-notes
 ## Code 201 Reading Notes
+```
 > This website contains notes from Coding Bootcamp 201 in order to organize and recollect information during the course.
+```
 ### Table of Contents
 1. 
 2.
