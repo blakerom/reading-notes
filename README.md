@@ -8,7 +8,7 @@
 ### Table of Contents
 1. [01 Intro to HTML and JavaScript](class-01.md)
 2. [02 Basic HTML, CSS, and JavaScript](class-02.md)
-3. [03]
+3. [03 HTML Lists, CSS Boxes, and JS Control Flow](class-03.md)
 4. [04]
 5. [05]
 6. [06]
