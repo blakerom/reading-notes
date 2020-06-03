@@ -41,7 +41,7 @@ There are three different types of ***Lists*** in HTML. ***Ordered Lists*** with
 </dl>
 ```
 
-***Definition Lists*** contain two different lists items called the **\<dt>** tag or ***term*** tag which gives the term within the list, and the **\<dd>** tag or ***definition*** tag whcih is used to define the term.
+***Definition Lists*** contain two different lists items called the **\<dt>** tag or ***term*** tag which gives the term within the list, and the **\<dd>** tag or ***definition*** tag which is used to define the term.
 
 ### CSS Box Model
 ![Box model](box-model.png) 
@@ -56,7 +56,7 @@ Comparison and Logical Operators help evaluate variables.
 < less than
 <= less than or equal to
 > greater than
->= greatre than or equal to
+>= greater than or equal to
 == equal to
 === strict equals
 != does not equal
@@ -66,7 +66,7 @@ Comparison and Logical Operators help evaluate variables.
 ! logical not
 ```
 
-Conditional statements help you code decisions into your program and assist in functioning approriately. The different types of decision making statements are ***If/Else*** statements, and ***Switch*** statements.
+Conditional statements help you code decisions into your program and assist in functioning appropriately. The different types of decision making statements are ***If/Else*** statements, and ***Switch*** statements.
 
 ```javascript
 if (blue == blue)
