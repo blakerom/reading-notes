@@ -46,5 +46,21 @@ There are three different types of ***Lists*** in HTML. ***Ordered Lists*** with
 ### CSS Box Model
 ![Box model](box-model.png) 
 > https://www.rithmschool.com/courses/html-css-fundamentals/box-model
+CSS follows the box model for all of its styling. Each section of code is contained within the box. The image above shows which term affects which part of the box.
 
 ### JS Control Flow
+Comparison and Logical Operators help evaluate variables. 
+```javascript
+< less than
+> greater than
+```
+
+Conditional statements help you code decisions into your program and assist in functioning approriately. The different types of decision making statements are ***If/Else*** statements, and ***Switch*** statements.
+```javascript
+if (blue == blue)
+{
+  alert("It is blue!");
+ }
+else
+  alert("Is not blue!");
+```
