@@ -1,6 +1,6 @@
-#Class-01
+# Class-01
 
-##Basic HTML Layout
+## Basic HTML Layout
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -48,3 +48,25 @@ The \<body> tag follows the head tag and contains the bulk of the pages informat
 </html>
 ```
 Finally, the final \</html> tag closes the HTML document so that there are no open tags or errors.
+
+## JavaScript in your HTML
+```
+</head>
+<body>
+  
+  <script></script>
+  
+</body>
+</html>
+```
+JavaScript can be added to you document with the \<script> tag. 
+
+```
+<script> Insert code here </script>
+```
+This line can be added either inside the \<head> tag or better used inside the \<body> tag to ensure your CSS properties are still intact.
+
+```
+<script src="app.js"></script>
+```
+Adding an external JavaScript file like \"app.js" is the most common practice way to add JavaScript to your HTML document.
