@@ -103,7 +103,7 @@ for (var i=0; i<=array.Length; i++)
 }
 ```
 
-***While*** loops are best used for when the number of iterations isn't always known.
+***While*** loops are best used for when the number of iterations are not always known.
 
 ```javascript
 while (i < 10)
