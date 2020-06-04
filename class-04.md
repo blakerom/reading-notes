@@ -18,3 +18,8 @@ While linking to other pages within the same site uses *Relative* paths.
 ```html
 <a href="www.att.com">Att</a>
 ```
+
+In the example below you can see how linking to a specific page or section of a page can be handled within the tag. This is helpful for such things as navigations or internal web pages.
+```html
+<a href="#contact">Contact</a>
+```
