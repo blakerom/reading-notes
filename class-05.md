@@ -16,9 +16,27 @@ Colors help style youor page, but can be used for so much more. With the additio
 
 > Example of Hex color:
 > #201d64
+
 > Example of RGB:
 > RGB(32, 29, 100)
 
 In order to add opacity you can use RGBA or HSLA and you would enter your percentage out of 1 at the end.
 
 > RGBA: RGB(32, 29, 100, .8) 80% Opacity
+
+### Text
+
+Controlling your font will help stylize and apply a theme to your website increasing its consistency and visual appeal. Properties such as *font,  size, weight, and spacing*. 
+
+```css
+.info-container  /*class based style change*/
+{
+    width: 800px;
+    justify-content: center;
+    margin: 10em 15em 10em 15em;
+    font-family: 'Electrolize', sans-serif;
+    font-size: 18px;
+    color: #9C9898;
+    padding: 0 40px;
+}
+```
