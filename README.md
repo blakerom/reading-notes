@@ -10,8 +10,8 @@
 2. [02 Basic HTML, CSS, and JavaScript](class-02.md)
 3. [03 HTML Lists, CSS Boxes, and JS Control Flow](class-03.md)
 4. [04 HTML Links](class-04.md)
-5. [05]
-6. [06]
+5. [05 HTML Links, CSS, and Functions](class-05.md)
+6. [06 JS Objects and the DOM](class-06.md)
 7. [07]
 8. [08]
 9. [09]
