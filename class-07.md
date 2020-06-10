@@ -22,7 +22,7 @@ New variable instantiation with parameters.
 ```js
 var potatoPotato = makePotato('Russett', 2, 18, 4);
 ```
-You can also create constructor functions that act the same way however are purpose built by JavaScript.
+You can also create constructor functions that act the same way however is purpose-built by JavaScript.
 ```js
 function Potato(name, minPotato, maxPotato, averagePotato) {
   this.name = name;
@@ -31,7 +31,7 @@ function Potato(name, minPotato, maxPotato, averagePotato) {
   this.averagePotato = averagePotato;
 }
 ```
-This created the Constructor which is desinged to take in parameters and construct an object around it.
+This created the Constructor which is designed to take in parameters and construct an object around it.
 The constructor can still use function calls with ***Prototypes***.
 ```js
 Potato.prototype.renderPotato = renderPotato;
