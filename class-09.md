@@ -6,7 +6,7 @@ There are several form controls used to create a form. However, they also start 
 ```html
 <form></form>
 ```
-A complete form will utilize many different types of controls can can even include buttons.
+A complete form will utilize many different types of controls can even include buttons.
 ```html
 <form action="" method="">
  <ul>
@@ -28,4 +28,4 @@ A complete form will utilize many different types of controls can can even inclu
  </ul>
 </form>
 ```
-A form can use radio buttons, checkboxes, lists, `<input>` fields, `<textarea>`, and `<label>`. `type=""` is a great place to set attributes, or select radio buttons. Name attribute can allow you manipulate it with an id. Maxlength and size can assist in creating the size of form you desire.
+A form can use radio buttons, checkboxes, lists, `<input>` fields, `<textarea>`, and `<label>`. `type=""` is a great place to set attributes, or select radio buttons. The Name attribute can allow you to manipulate it with an id. Maxlength and size can assist in creating the size of the form you desire.
