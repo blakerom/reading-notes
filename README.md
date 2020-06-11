@@ -14,7 +14,7 @@
 6. [06 JS Objects and the DOM](class-06.md)
 7. [07 HTML Tables JS Constructors](class-07.md)
 8. [08]
-9. [09]
+9. [09 Forms](class-09.md)
 10. [10]
 11. [11]
 12. [12]
