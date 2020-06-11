@@ -5,4 +5,4 @@ You can create frameworks for web designs before actually adding any content int
 ![](https://codefellows.github.io/code-201-guide/curriculum/class-08/lab-a/images/wireframe-comp.png)
 
 without using any Javascript, minimal HTML, and some CSS properties.
-Frameworks save you from repeateedly writing code. These frameworks can be further refined by eliminating any cross browser bugs. Frameworks also allow you to control your HTMl without having to identify any class names or id's.
+Frameworks save you from repeatedly writing code. These frameworks can be further refined by eliminating any cross-browser bugs. Frameworks also allow you to control your HTML without having to identify any class names or id's.
