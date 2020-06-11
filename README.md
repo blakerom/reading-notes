@@ -13,7 +13,7 @@
 5. [05 HTML Links, CSS, and Functions](class-05.md)
 6. [06 JS Objects and the DOM](class-06.md)
 7. [07 HTML Tables JS Constructors](class-07.md)
-8. [08]
+8. [08 Frameworks](class-08.md)
 9. [09 Forms](class-09.md)
 10. [10]
 11. [11]
