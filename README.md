@@ -15,7 +15,7 @@
 7. [07 HTML Tables JS Constructors](class-07.md)
 8. [08 Frameworks](class-08.md)
 9. [09 Forms](class-09.md)
-10. [10]
+10. [10 JS Debugging](class-10.md)
 11. [11]
 12. [12]
 13. [13]
