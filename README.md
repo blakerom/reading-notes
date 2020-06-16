@@ -16,7 +16,7 @@
 8. [08 Frameworks](class-08.md)
 9. [09 Forms](class-09.md)
 10. [10 JS Debugging](class-10.md)
-11. [11]
+11. [11 Images](class-11.md)
 12. [12]
 13. [13]
 14. [14]
