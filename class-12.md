@@ -6,7 +6,7 @@ Chart.JS is a great little tool online that you can use inside your HTML documen
 <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
 ```
 
-The script tag containing the source marks up the HTML to point towards the Chart.js CDN. This allows any machine to utilize the online database without having to download to the local machine before using. This decreases the time required to load a page. 
+The script tag containing the source marks up the HTML to point towards the Chart.js CDN. This allows any machine to utilize the online database without having to download it to the local machine before using it. This decreases the time required to load a page.
 
 ```html
 <canvas id="myChart"></canvas>
@@ -36,4 +36,4 @@ var chart = new Chart(ctx, {
 });
 ```
 
-Above is the minimum required Javascript needed to form the chart within your HTML. Point your HTML ID to match the Javascript, input youor data and labels and you're good to go.
+Above is the minimum required Javascript needed to form the chart within your HTML. Point your HTML ID to match the Javascript, input your data and labels and you're good to go.
