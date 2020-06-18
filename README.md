@@ -18,6 +18,6 @@
 10. [10 JS Debugging](class-10.md)
 11. [11 Images](class-11.md)
 12. [12 Chart.JS](class-12.md)
-13. [13]
+13. [13 Local Storage](class-13.md)
 14. [14]
 15. [15]
