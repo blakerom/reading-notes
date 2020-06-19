@@ -19,5 +19,5 @@
 11. [11 Images](class-11.md)
 12. [12 Chart.JS](class-12.md)
 13. [13 Local Storage](class-13.md)
-14. [14]
+14. [14 Transforms, Transitions, and Animations](class-14.md)
 15. [15]
