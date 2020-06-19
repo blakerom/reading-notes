@@ -2,7 +2,7 @@
 
 ### Transitions and Animations
 
-Transitions can be done with CSS using four different related properties *transition-property, transtiion-duration, transition-timing-function, transition-delay*. Transitions can be applied to pseudo-classes to help trigger the effects, *:hover, :focus, :active,* and *:target*.
+Transitions can be done with CSS using four different related properties *transition-property, transition-duration, transition-timing-function, transition-delay*. Transitions can be applied to pseudo-classes to help trigger the effects, *:hover, :focus, :active,* and *:target*.
 
 ```css
 .potato {
@@ -60,7 +60,7 @@ Animations are accomplished by ***@keyframes*** and animation properties.
 
 ### Transform
 
-Transform helps you manipulate with CSS in simpler ways such as making things grow, shrink, or rotate 180 degrees. Transform has properties such as *scale, translate, rotate, *and *skew*. Transforms can be long hand or shorthand.
+Transform helps you manipulate with CSS in simpler ways such as making things grow, shrink, or rotate 180 degrees. Transform has properties such as *scale, translate, rotate, *and *skew*. Transforms can be longhand or shorthand.
 
 ```css
 transform: scale(1.2);
