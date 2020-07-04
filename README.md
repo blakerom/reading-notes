@@ -2,7 +2,7 @@
 
 ## Code 201 - Foundations of Software Development
 
-> This website contains notes from Coding Bootcamp 201 in order to organize and recollect information during the course.
+> This section contains notes from Coding Bootcamp 201 in order to organize and recollect information during the course.
 
 
 ### Table of Contents
@@ -20,9 +20,13 @@
 12. [12 Chart.JS](class-12.md)
 13. [13 Local Storage](class-13.md)
 14. [14 Transforms, Transitions, and Animations](class-14.md)
-15. [15]
 
 ## Code 301 - Intermediate Software Development
+
+
+> This section contains notes from Coding Bootcamp 301 in order to organize and recollect information during the course.
+
+
 1. [01]
 2. [02]
 3. [03]
@@ -37,4 +41,3 @@
 12. [12]
 13. [13]
 14. [14]
-15. [15]
