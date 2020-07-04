@@ -1,6 +1,6 @@
 # reading-notes
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 > This website contains notes from Coding Bootcamp 201 in order to organize and recollect information during the course.
 
@@ -20,4 +20,21 @@
 12. [12 Chart.JS](class-12.md)
 13. [13 Local Storage](class-13.md)
 14. [14 Transforms, Transitions, and Animations](class-14.md)
+15. [15]
+
+## Code 301 - Intermediate Software Development
+1. [01]
+2. [02]
+3. [03]
+4. [04]
+5. [05]
+6. [06]
+7. [07]
+8. [08]
+9. [09]
+10. [10]
+11. [11]
+12. [12]
+13. [13]
+14. [14]
 15. [15]
