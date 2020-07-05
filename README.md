@@ -27,7 +27,7 @@
 > This section contains notes from Coding Bootcamp 301 in order to organize and recollect information during the course.
 
 
-1. [01]
+1. [01 SMACSS and Responsive Web Design](301/class-01.md)
 2. [02]
 3. [03]
 4. [04]
