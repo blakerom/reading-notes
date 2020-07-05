@@ -6,20 +6,20 @@
 
 
 ### Table of Contents
-1. [01 Intro to HTML and JavaScript](class-01.md)
-2. [02 Basic HTML, CSS, and JavaScript](class-02.md)
-3. [03 HTML Lists, CSS Boxes, and JS Control Flow](class-03.md)
-4. [04 HTML Links](class-04.md)
-5. [05 HTML Links, CSS, and Functions](class-05.md)
-6. [06 JS Objects and the DOM](class-06.md)
-7. [07 HTML Tables JS Constructors](class-07.md)
-8. [08 Frameworks](class-08.md)
-9. [09 Forms](class-09.md)
-10. [10 JS Debugging](class-10.md)
-11. [11 Images](class-11.md)
-12. [12 Chart.JS](class-12.md)
-13. [13 Local Storage](class-13.md)
-14. [14 Transforms, Transitions, and Animations](class-14.md)
+1. [01 Intro to HTML and JavaScript](201/class-01.md)
+2. [02 Basic HTML, CSS, and JavaScript](201/class-02.md)
+3. [03 HTML Lists, CSS Boxes, and JS Control Flow](201/class-03.md)
+4. [04 HTML Links](201/class-04.md)
+5. [05 HTML Links, CSS, and Functions](201/class-05.md)
+6. [06 JS Objects and the DOM](201/class-06.md)
+7. [07 HTML Tables JS Constructors](201/class-07.md)
+8. [08 Frameworks](201/class-08.md)
+9. [09 Forms](201/class-09.md)
+10. [10 JS Debugging](201/class-10.md)
+11. [11 Images](201/class-11.md)
+12. [12 Chart.JS](201/class-12.md)
+13. [13 Local Storage](201/class-13.md)
+14. [14 Transforms, Transitions, and Animations](201/class-14.md)
 
 ## Code 301 - Intermediate Software Development
 
