@@ -22,7 +22,7 @@ Sections within the content of the HTML that can be grouped together. Reusable b
 #### State
 Used for state declarations for css when hover, active, inactive, etc would be appropriate.
 
-##### Theme
+#### Theme
 Apply a theme such as a holiday theme or page theme that affects the styling that you see first on the HTML.
 
 ### Responsive Web Design
