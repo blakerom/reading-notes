@@ -28,7 +28,7 @@
 
 
 1. [01 SMACSS and Responsive Web Design](301/class-01.md)
-2. [02]
+2. [02 Pair Programming](301/class-02.md)
 3. [03]
 4. [04]
 5. [05]
