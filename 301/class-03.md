@@ -25,5 +25,5 @@ The display defines a container, enabling flex.
   4. space-between
   5. space-around
   6. space-evenly
-#### align-self specifies the default alignment.
+#### align-self specifies the default alignment. Similar to justify however, aligns items vertically.
  
