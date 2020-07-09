@@ -18,7 +18,7 @@ Initiate the rows and columns giving them a size.
 
 This sets the size and amount of rows and lengths. The sizes can vary within the rows and columns.
 
-Set teh gap in between the grids for better visuals.
+Set tHe gap in between the grids for better visuals.
 
 ```CSS
 .container {
