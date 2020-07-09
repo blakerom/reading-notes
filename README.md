@@ -30,7 +30,7 @@
 1. [01 SMACSS and Responsive Web Design](301/class-01.md)
 2. [02 Pair Programming](301/class-02.md)
 3. [03 Flexbox and Templating](301/class-03.md)
-4. [04]
+4. [04 CSS Grid](class-04.md)
 5. [05]
 6. [06]
 7. [07]
