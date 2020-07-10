@@ -31,7 +31,7 @@
 2. [02 Pair Programming](301/class-02.md)
 3. [03 Flexbox and Templating](301/class-03.md)
 4. [04 CSS Grid](301/class-04.md)
-5. [05]
+5. [05 Heroku Deployment](301/class-05.md)
 6. [06]
 7. [07]
 8. [08]
