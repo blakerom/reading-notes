@@ -1,10 +1,10 @@
 # Heroku Deployment
 
-Heroku allows you to run a runtime server via Node.js taht allows you to build server-side and networking applications.
+Heroku allows you to run a runtime server via Node.js that allows you to build server-side and networking applications.
 
 1. This gives you your own client-server model.
 2. Provides non-blocking and event-driven behavior.
-3. Performs request for resource, recieves data.
+3. Performs request for resource, receives data.
 4. Use Heroku cloud application to turn into a World Wide Web
 
 Basic server.js file to get started on your server includes
@@ -45,5 +45,5 @@ var server = http.createServer(function(request, response) {
 });
 ```
 
-Start your own server loacally with `node server.js`.
+Start your own server locally with `node server.js`.
 
