@@ -32,7 +32,7 @@
 3. [03 Flexbox and Templating](301/class-03.md)
 4. [04 CSS Grid](301/class-04.md)
 5. [05 Heroku Deployment](301/class-05.md)
-6. [06]
+6. [06 Node.js Express adn API's](301/class-06.md)
 7. [07]
 8. [08]
 9. [09]
