@@ -33,7 +33,7 @@
 4. [04 CSS Grid](301/class-04.md)
 5. [05 Heroku Deployment](301/class-05.md)
 6. [06 Node.js Express adn API's](301/class-06.md)
-7. [07]
+7. [07 REST](301/class-07.md)
 8. [08]
 9. [09]
 10. [10]
