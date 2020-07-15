@@ -34,7 +34,7 @@
 5. [05 Heroku Deployment](301/class-05.md)
 6. [06 Node.js Express adn API's](301/class-06.md)
 7. [07 REST](301/class-07.md)
-8. [08]
+8. [08 SQL](301/class-08.md)
 9. [09]
 10. [10]
 11. [11]
