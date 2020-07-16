@@ -35,7 +35,7 @@
 6. [06 Node.js Express adn API's](301/class-06.md)
 7. [07 REST](301/class-07.md)
 8. [08 SQL](301/class-08.md)
-9. [09]
+9. [09 REFACTORING](301/class-09.md)
 10. [10]
 11. [11]
 12. [12]
