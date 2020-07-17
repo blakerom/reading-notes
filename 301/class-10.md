@@ -1,6 +1,6 @@
 # Call-Stack
 
-A Call stack is amechanism for interpreting. It keeps track of its place in a script that calls multiple functions.
+A Call stack is a mechanism for interpreting. It keeps track of its place in a script that calls multiple functions.
 If a stack takes up more space than assigned to it, it will result in a stack overflow error.
 
 ```js
