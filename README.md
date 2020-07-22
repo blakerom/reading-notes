@@ -38,6 +38,6 @@
 9. [09 REFACTORING](301/class-09.md)
 10. [10 Call-Stack](301/class-10.md)
 11. [11 EJS](301/class-11.md)
-12. [12]
-13. [13]
+12. [12 EJS Partials](301/class-12.md)
+13. [13 Update/Delete](301/class-13.md)
 14. [14]
