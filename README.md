@@ -41,3 +41,4 @@
 12. [12 EJS Partials](301/class-12.md)
 13. [13 Update/Delete](301/class-13.md)
 14. [14]
+15. [15 Diversity](301/class-15.md)
