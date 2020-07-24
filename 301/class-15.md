@@ -4,7 +4,7 @@ Q. What percentage of computer science graduates, in 1984, were women?
 
 Q. What is the average earning potential of a technology related job?
 
-Q. 44% of men get their ideas endorse, what is the percentage for women?
+Q. 44% of men get their ideas endorsed, what is the percentage for women?
 
 Q. NVidia, a large company in the tech industry employs 44% Asian ethnicity compared to what U.S. percentage?
 
