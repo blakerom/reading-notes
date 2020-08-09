@@ -44,4 +44,9 @@
 15. [15 Diversity](301/class-15.md)
 
 ## Code 401 - JavaScript
-1. [Engineering Topics](401/engineering-topics.md)
+
+
+> This section contains notes from Coding Bootcamp 401 in order to organize and recollect information during the course.
+
+
+1. [Engineering Topics](401/Engineering-Topics.md)
