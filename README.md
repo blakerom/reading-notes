@@ -27,6 +27,7 @@
 > This section contains notes from Coding Bootcamp 301 in order to organize and recollect information during the course.
 
 
+### Table of Contents
 1. [01 SMACSS and Responsive Web Design](301/class-01.md)
 2. [02 Pair Programming](301/class-02.md)
 3. [03 Flexbox and Templating](301/class-03.md)
@@ -49,4 +50,5 @@
 > This section contains notes from Coding Bootcamp 401 in order to organize and recollect information during the course.
 
 
+### Table of Contents
 1. [Engineering Topics](401/Engineering-Topics.md)
