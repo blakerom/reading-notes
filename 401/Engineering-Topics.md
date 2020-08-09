@@ -18,7 +18,7 @@ As much as 70% of our time should be spent in steps 1-3.
 
 # Pretend your time is worth $1000/hr
 busyness is laziness for the mind. 
->Busyness and exhaustion should be your enemy. If you’re chronically stressed and up late working, you’re doing something wrong. Do less. But do what you do with complete, hard focus. Then when you’re done be done, and go enjoy the rest of your day.>
+>Busyness and exhaustion should be your enemy. If you’re chronically stressed and up late working, you’re doing something wrong. Do less. But do what you do with complete, hard focus. Then when you’re done be done, and go enjoy the rest of your day.
 To be successful stay focused. Deep work means to not become distracted. Finish your work meaningfully and when you're done you're done. Enjoy the rest of the day. This will also help to avoid over working and exhaustion. 
 
 Say no more often. Successful people say yes, while really successful people say no more often.
