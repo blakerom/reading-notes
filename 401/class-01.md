@@ -12,14 +12,15 @@
    Installs libraries and packages onto the computer for the modules to use.
    
    4. Provide code snippets showing 3 different ways to export a function from a node module
+  
    ```js
-   module.exports = {};
+   module.exports = aFunctionCall;
    ```
    ```js
-   module.exports = functionName;
+   const aName = () => {};
    ```
    ```js
-   module.exports.functionName = functionName;
+   module.exports = {function};
    ```
    
    
