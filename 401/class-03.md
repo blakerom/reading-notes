@@ -18,7 +18,7 @@
     
 
 |### Term                               |### Definition                                                                             |
-
+| ------------------------------------- | ----------------------------------------------------------------------------------------- |
 |database                               |Collection of data.                                                                        |
 |data model                             |Conceptual representation of data objects adn their associations.                          |
 |CRUD                                   |Create, Read, Update, Delete the four basic operations for persitent data.                 |
