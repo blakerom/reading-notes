@@ -17,7 +17,7 @@
     An application with users, products, and a shopping cart. Each user will have a similar product list or can vary by user, the product list updates the cart when selected, the cart finalizes information. All pieces of information are cascaded and update by the thing proceeding it.
     
 
-|### Term                               |### Definition                                                                             |
+|Term                                   |Definition                                                                                 |
 | ------------------------------------- | ----------------------------------------------------------------------------------------- |
 |database                               |Collection of data.                                                                        |
 |data model                             |Conceptual representation of data objects adn their associations.                          |
