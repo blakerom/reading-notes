@@ -53,3 +53,5 @@
 ### Table of Contents
 0. [Engineering Topics](401/Engineering-Topics.md)
 1. [Node](401/class-01.md)
+2. [class 02]()
+3. [Data Modeling](401/class-03.md)
