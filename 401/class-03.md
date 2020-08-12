@@ -17,20 +17,20 @@
     An application with users, products, and a shopping cart. Each user will have a similar product list or can vary by user, the product list updates the cart when selected, the cart finalizes information. All pieces of information are cascaded and update by the thing proceeding it.
     
 
-### Term                              ### Definition
+|### Term                               |### Definition                                                                             |
 
-database                          Collection of data.
-data model                        Conceptual representation of data objects adn their associations.
-CRUD                              Create, Read, Update, Delete the four basic operations for persitent data.
-schema                            Structured or organized data.
-sanitize                          Removing all dangerous characters from an input or stringbefore passing it to SQL
-Structured Query Language (SQL)   Relational database driven by structure of available data.
-Non SQL (NoSQL)                   Application specific queries.
-MongoDB                           Cross-platform document-oriented database.
-Mongoose                          Database object modeling tool that runs async.
-record                            Data structure that can hold data items of different kinds.
-document                          Stored procedures used for explanation of tables and data.
-Object Relation Mapping (ORM)     Writing of queries in our language of choice to communicate with queries.
+|database                               |Collection of data.                                                                        |
+|data model                             |Conceptual representation of data objects adn their associations.                          |
+|CRUD                                   |Create, Read, Update, Delete the four basic operations for persitent data.                 |
+|schema                                 |Structured or organized data.                                                              |
+|sanitize                               |Removing all dangerous characters from an input or stringbefore passing it to SQL          |
+|Structured Query Language (SQL)        |Relational database driven by structure of available data.                                 |
+|Non SQL (NoSQL)                        |Application specific queries.                                                              |
+|MongoDB                                |Cross-platform document-oriented database.                                                 |
+|Mongoose                               |Database object modeling tool that runs async.                                             |
+|record                                 |Data structure that can hold data items of different kinds.                                |
+|document                               |Stored procedures used for explanation of tables and data.                                 |
+|Object Relation Mapping (ORM)          |Writing of queries in our language of choice to communicate with queries.                  |
 
 ### Resources
 https://www.guru99.com/data-modelling-conceptual-logical.html
