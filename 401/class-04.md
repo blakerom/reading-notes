@@ -14,16 +14,17 @@
     Mongoose is a MongoDB object modeling tool designed asynchronously. Supports promises and callbacks.
     
     Describe how NoSQL Databases scale horizontally.
-    
+    Scales by increasing the number of servers. You can scale to have as many servers in parallel as you like. 
     
     Give one strong argument for and against NoSQL Databases.
-    
+    NoSQL is designed to be used with low cost hardwares and outward scalability. 
+    NoSQL does not yet have vendors that support 24hr support.
     
     Define three related pieces of data in a possible application. An example for a store application might be Product, Category and Department. Describe the constraints and rules on each piece of data and how you would relate these pieces to each other. For example, each Product has a Category and belongs in a Department.
-
+An application with users, products, and a shopping cart. Each user will have a similar product list or can vary by user, the product list updates the cart when selected, the cart finalizes information. All pieces of information are cascaded and update by the thing proceeding it.
 
     Name 3 cloud based NoSQL Databases.
-    
+    AWS, Atlas, Azure
     
     
 
@@ -49,5 +50,7 @@ https://www.npmjs.com/package/mongoose
 https://www.quora.com/What-exactly-is-data-sanitization-with-respect-to-SQL-injection
 https://www.tutorialspoint.com/plsql/plsql_records.htm
 https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a
+https://medium.com/better-programming/scaling-sql-nosql-databases-1121b24506df
+https://greengarageblog.org/7-pros-and-cons-of-nosql
 
 
