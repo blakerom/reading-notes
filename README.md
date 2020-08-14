@@ -55,3 +55,4 @@
 1. [Node](401/class-01.md)
 2. [class 02]()
 3. [Data Modeling](401/class-03.md)
+4. [Advanced Mongo/Mongoose](401/class-04.md)
