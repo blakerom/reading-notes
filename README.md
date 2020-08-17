@@ -56,4 +56,4 @@
 2. [class 02]()
 3. [Data Modeling](401/class-03.md)
 4. [Advanced Mongo/Mongoose](401/class-04.md)
-5. [Linked Lists}(401/class-05.md)
+5. [Linked Lists](401/class-05.md)
