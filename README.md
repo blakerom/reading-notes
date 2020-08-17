@@ -57,3 +57,4 @@
 3. [Data Modeling](401/class-03.md)
 4. [Advanced Mongo/Mongoose](401/class-04.md)
 5. [Linked Lists](401/class-05.md)
+6. [HTTP and REST](401/class-06.md)
