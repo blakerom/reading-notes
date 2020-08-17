@@ -2,12 +2,12 @@
 
 ## Match the term to its description.
 
-a. Linked List
-b. Singly
-c. Doubly
-d. Node
-e. Next
-f. Head
+a. Linked List\
+b. Singly\
+c. Doubly\
+d. Node\
+e. Next\
+f. Head\
 g. Current
 
 --------------------------------------------------
