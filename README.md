@@ -62,3 +62,4 @@
 8. [Express Routing and Connected API](401/class-08.md)
 9. [API Server](401/class-09.md)
 10. [Stacks and Queues](401/class-10.md)
+11. [Authentication](401/class-11.md)
