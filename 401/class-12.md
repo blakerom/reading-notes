@@ -18,3 +18,5 @@ The most common types of applicaitons you will encounter when dealing with OAuth
 Run entirely int he browser after loading the source code from a web page. Since ran in teh web page they are unable to maintain secrecy.
 
 
+##### Resources
+https://aaronparecki.com/oauth-2-simplified/
