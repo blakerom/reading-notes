@@ -64,3 +64,4 @@
 10. [Stacks and Queues](401/class-10.md)
 11. [Authentication](401/class-11.md)
 12. [OAuth](401/class-12.md)
+13. [Bearer Authorization](401/class-13.md)
