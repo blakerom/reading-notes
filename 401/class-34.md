@@ -1,1 +1,2 @@
-# React: Login and AUth
+# React: Login and Auth
+
